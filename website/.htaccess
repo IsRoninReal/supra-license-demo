@@ -1,0 +1,4 @@
+order deny,allow
+deny from all
+allow from 88.234.80.188 # ronin
+allow from 31313131313131 # sado
